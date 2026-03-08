@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-label="Type scale specimen — IBM Plex Mono">
+  <!-- Background -->
+  <rect width="760" height="460" fill="#eeeee8"/>
+
+  <!-- Header rule -->
+  <line x1="40" y1="52" x2="720" y2="52" stroke="#c8c7c0" stroke-width="1"/>
+
+  <!-- Label -->
+  <text x="40" y="44" font-family="'IBM Plex Mono', monospace" font-size="9" letter-spacing="2" fill="#9a9992" text-transform="uppercase">TYPE SCALE — IBM PLEX MONO — MAJOR THIRD 1.25×</text>
+
+  <!-- Scale specimens -->
+
+  <!-- 37px — Display -->
+  <text x="40" y="100" font-family="'IBM Plex Mono', monospace" font-size="37" font-weight="400" fill="#1c1c1a" letter-spacing="-0.5">Logbook</text>
+  <text x="620" y="100" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#9a9992" text-anchor="end">37px — display</text>
+  <line x1="40" y1="112" x2="720" y2="112" stroke="#e0dfd9" stroke-width="1"/>
+
+  <!-- 30px — Heading 1 -->
+  <text x="40" y="148" font-family="'IBM Plex Mono', monospace" font-size="30" font-weight="400" fill="#1c1c1a">Design System</text>
+  <text x="720" y="148" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#9a9992" text-anchor="end">30px — heading 1</text>
+  <line x1="40" y1="158" x2="720" y2="158" stroke="#e0dfd9" stroke-width="1"/>
+
+  <!-- 24px — Heading 2 -->
+  <text x="40" y="190" font-family="'IBM Plex Mono', monospace" font-size="24" font-weight="400" fill="#1c1c1a">Type &amp; Scale</text>
+  <text x="720" y="190" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#9a9992" text-anchor="end">24px — heading 2</text>
+  <line x1="40" y1="198" x2="720" y2="198" stroke="#e0dfd9" stroke-width="1"/>
+
+  <!-- 19px — Heading 3 -->
+  <text x="40" y="226" font-family="'IBM Plex Mono', monospace" font-size="19" font-weight="400" fill="#3a3a36">Body lead / subheading</text>
+  <text x="720" y="226" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#9a9992" text-anchor="end">19px — heading 3</text>
+  <line x1="40" y1="234" x2="720" y2="234" stroke="#e0dfd9" stroke-width="1"/>
+
+  <!-- 15px — Body -->
+  <text x="40" y="258" font-family="'IBM Plex Mono', monospace" font-size="15" font-weight="400" fill="#3a3a36">Body text. Readable at length. Comfortable measure.</text>
+  <text x="720" y="258" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#9a9992" text-anchor="end">15px — body</text>
+  <line x1="40" y1="266" x2="720" y2="266" stroke="#e0dfd9" stroke-width="1"/>
+
+  <!-- 12px — Caption -->
+  <text x="40" y="286" font-family="'IBM Plex Mono', monospace" font-size="12" fill="#7a7a76">Caption, metadata, labels — compact but clear at small sizes.</text>
+  <text x="720" y="286" font-family="'IBM Plex Mono', monospace" font-size="9" fill="#9a9992" text-anchor="end">12px — caption</text>
+
+  <!-- Rule -->
+  <line x1="40" y1="310" x2="720" y2="310" stroke="#c8c7c0" stroke-width="1"/>
+
+  <!-- Alphabet specimen -->
+  <text x="40" y="360" font-family="'IBM Plex Mono', monospace" font-size="20" fill="#1c1c1a" letter-spacing="2">A B C D E F G H I J K L M N O P</text>
+  <text x="40" y="390" font-family="'IBM Plex Mono', monospace" font-size="20" fill="#1c1c1a" letter-spacing="2">Q R S T U V W X Y Z 0 1 2 3 4 5</text>
+  <text x="40" y="420" font-family="'IBM Plex Mono', monospace" font-size="20" fill="#b5822a" letter-spacing="2">6 7 8 9 ! @ # $ % &amp; ( ) — – ...</text>
+
+  <!-- Footer rule -->
+  <line x1="40" y1="440" x2="720" y2="440" stroke="#c8c7c0" stroke-width="1"/>
+  <text x="40" y="453" font-family="'IBM Plex Mono', monospace" font-size="9" letter-spacing="1.5" fill="#9a9992">TRACKING ADJUSTED PER SIZE — TIGHT AT LARGE, LOOSE AT SMALL</text>
+</svg>
